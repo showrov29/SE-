@@ -12,3 +12,6 @@ var result=[2,8,4,4,6].every((e)=> e%2===0);
 // when you do not return anythis you must not use {} in call bcak fn
 
 console.log(result);
+
+
+// this line is added letter
