@@ -14,4 +14,7 @@ var result=[2,8,4,4,6].every((e)=> e%2===0);
 console.log(result);
 
 
+// added in third time
+
+
 // this line is added letter
