@@ -50,7 +50,7 @@ class customer(User):
 
 user1=customer("Atif",2042824,"Basundhara","showrovislam29@gmail.com",29082001)
 
-
+#added latter
 
 # if (c1.login('showrovislam29@gamil.com',29082001)):
 user1.customerInfo()
